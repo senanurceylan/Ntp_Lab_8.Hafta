@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.35431.46
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uml3", "uml2\uml3.csproj", "{BE9734C5-0CAA-4A58-B7C8-0F00F02A9B75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE9734C5-0CAA-4A58-B7C8-0F00F02A9B75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE9734C5-0CAA-4A58-B7C8-0F00F02A9B75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE9734C5-0CAA-4A58-B7C8-0F00F02A9B75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE9734C5-0CAA-4A58-B7C8-0F00F02A9B75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79251C9E-D7D5-43F0-A839-867156A3084D}
+	EndGlobalSection
+EndGlobal
